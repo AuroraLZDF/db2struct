@@ -5,8 +5,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/Shelnutt2/db2struct"
-	goopt "github.com/droundy/goopt"
+	"github.com/auroralzdf/db2struct"
+	"github.com/droundy/goopt"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/howeyc/gopass"
 )

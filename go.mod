@@ -1,4 +1,4 @@
-module github.com/Shelnutt2/db2struct
+module github.com/auroralzdf/db2struct
 
 go 1.12
 
